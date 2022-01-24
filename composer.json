@@ -2,7 +2,7 @@
     "name": "vcr-html/html",
     "description": "css front end",
     "type": "library",
-  	"dev-master": "1.0.0.x-dev"
+	"dev-master": "1.0.0.x-dev"
     "autoload": {
         "psr-4": {
             "VcrHtml\\Html\\": "src/"
