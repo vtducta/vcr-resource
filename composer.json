@@ -2,7 +2,7 @@
     "name": "vcr-html/html",
     "description": "css front end",
     "type": "library",
-    "license": "1.0.0",
+    "license": "vcr-html-1.0.0",
     "autoload": {
         "psr-4": {
             "VcrHtml\\Html\\": "src/"
